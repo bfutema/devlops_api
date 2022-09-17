@@ -1,0 +1,8 @@
+{
+  "name": "devops_api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:bfutema/devops_api.git",
+  "author": "Bruno Futema <bruno.futema@outlook.com>",
+  "license": "MIT"
+}
